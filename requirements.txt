@@ -1,6 +1,1 @@
-python-telegram-bot==21.6
-yfinance
-pandas
-ta
-pytz
-apscheduler
+flask
